@@ -1,8 +1,14 @@
 h1, h2{
         margin:0;
         padding:0;
+        /* text-align: center; */
     
   }
   p{
     margin-top: 1px;
   }
+
+  /* html {
+  text-align: center;
+} */
+
