@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
 }
 .container {
-  width: 800px;
+  width: 900px;
   margin: auto;
 
 } 
@@ -14,7 +14,6 @@ h1, h2{
     
 
   }
-
 
   p{
     margin-top: 1px;
@@ -31,16 +30,13 @@ h2.color{
   text-align: center;
 } */
 /* Table */
-
 table, th, td {
-  border:1px solid black;
+  border:1px solid rgb(255, 248, 248);
   padding: 10px;
-  width: 600px; 
+  width: 500px; 
   border-collapse: collapse;
   background-color: rgb(5, 134, 154);
 }
-
-
 
 /* grid  */
 .rows {
