@@ -8,7 +8,7 @@ document.getElementById("changeThis4").textContent = 4;
 
 //container 
 
-document.querySelectorAll(".grid-container").forEach(element => 
+document.querySelectorAll(".rows").forEach(element => 
    element.style.backgroundColor = "rgb(8,100,100)")
 
 
